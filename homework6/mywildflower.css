@@ -1,0 +1,17 @@
+
+#container
+{margin-left: 100 px; margin-right: 100px;}
+#nav
+{float:left; windth; 15%;}
+#sidebar
+{float:right; width:20%;}
+#center
+{width:75%;}
+#header
+{text-align:center;}
+#footer
+{text-align:center; clear:both;padding:0;}
+#floatright
+{float:right;}
+.news
+{text-align:center;}
