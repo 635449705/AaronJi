@@ -1,0 +1,11 @@
+K:\Books\C#\Student Sample Programs\Chap06\Even Number\Even Number\bin\Debug\Even Number.exe
+K:\Books\C#\Student Sample Programs\Chap06\Even Number\Even Number\bin\Debug\Even Number.pdb
+K:\Books\C#\Student Sample Programs\Chap06\Even Number\Even Number\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Books\C#\Student Sample Programs\Chap06\Even Number\Even Number\obj\x86\Debug\Even_Number.Form1.resources
+K:\Books\C#\Student Sample Programs\Chap06\Even Number\Even Number\obj\x86\Debug\Even_Number.Properties.Resources.resources
+K:\Books\C#\Student Sample Programs\Chap06\Even Number\Even Number\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Books\C#\Student Sample Programs\Chap06\Even Number\Even Number\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Books\C#\Student Sample Programs\Chap06\Even Number\Even Number\obj\x86\Debug\Even Number.exe
+K:\Books\C#\Student Sample Programs\Chap06\Even Number\Even Number\obj\x86\Debug\Even Number.pdb
+G:\Books\C#\Student Sample Programs\Chap06\Even Number\Even Number\obj\x86\Debug\Even Number.exe
+G:\Books\C#\Student Sample Programs\Chap06\Even Number\Even Number\obj\x86\Debug\Even Number.pdb

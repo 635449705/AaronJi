@@ -1,0 +1,9 @@
+K:\Books\C#\Student Sample Programs\Chap05\Student Names\Student Names\bin\Debug\Student Names.exe
+K:\Books\C#\Student Sample Programs\Chap05\Student Names\Student Names\bin\Debug\Student Names.pdb
+K:\Books\C#\Student Sample Programs\Chap05\Student Names\Student Names\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Books\C#\Student Sample Programs\Chap05\Student Names\Student Names\obj\x86\Debug\Student_Names.Form1.resources
+K:\Books\C#\Student Sample Programs\Chap05\Student Names\Student Names\obj\x86\Debug\Student_Names.Properties.Resources.resources
+K:\Books\C#\Student Sample Programs\Chap05\Student Names\Student Names\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Books\C#\Student Sample Programs\Chap05\Student Names\Student Names\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Books\C#\Student Sample Programs\Chap05\Student Names\Student Names\obj\x86\Debug\Student Names.exe
+K:\Books\C#\Student Sample Programs\Chap05\Student Names\Student Names\obj\x86\Debug\Student Names.pdb

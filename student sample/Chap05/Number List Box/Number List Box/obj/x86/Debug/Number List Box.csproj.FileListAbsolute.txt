@@ -1,0 +1,16 @@
+G:\Books\C#\Student Sample Programs\Chap05\Number List Box\Number List Box\bin\Debug\Number List Box.exe
+G:\Books\C#\Student Sample Programs\Chap05\Number List Box\Number List Box\bin\Debug\Number List Box.pdb
+G:\Books\C#\Student Sample Programs\Chap05\Number List Box\Number List Box\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Books\C#\Student Sample Programs\Chap05\Number List Box\Number List Box\obj\x86\Debug\Number_List_Box.Form1.resources
+G:\Books\C#\Student Sample Programs\Chap05\Number List Box\Number List Box\obj\x86\Debug\Number_List_Box.Properties.Resources.resources
+G:\Books\C#\Student Sample Programs\Chap05\Number List Box\Number List Box\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Books\C#\Student Sample Programs\Chap05\Number List Box\Number List Box\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Books\C#\Student Sample Programs\Chap05\Number List Box\Number List Box\obj\x86\Debug\Number List Box.exe
+G:\Books\C#\Student Sample Programs\Chap05\Number List Box\Number List Box\obj\x86\Debug\Number List Box.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap05\Number List Box\Number List Box\obj\x86\Debug\Number List Box.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap05\Number List Box\Number List Box\obj\x86\Debug\Number List Box.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap05\Number List Box\Number List Box\bin\Debug\Number List Box.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap05\Number List Box\Number List Box\bin\Debug\Number List Box.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap05\Number List Box\Number List Box\obj\x86\Debug\Number_List_Box.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap05\Number List Box\Number List Box\obj\x86\Debug\Number_List_Box.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap05\Number List Box\Number List Box\obj\x86\Debug\Number List Box.csproj.GenerateResource.Cache

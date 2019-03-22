@@ -1,0 +1,19 @@
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap03\String Variable Demo\String Variable Demo\bin\Debug\String Variable Demo.exe
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap03\String Variable Demo\String Variable Demo\bin\Debug\String Variable Demo.pdb
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap03\String Variable Demo\String Variable Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap03\String Variable Demo\String Variable Demo\obj\x86\Debug\String_Variable_Demo.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap03\String Variable Demo\String Variable Demo\obj\x86\Debug\String_Variable_Demo.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap03\String Variable Demo\String Variable Demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap03\String Variable Demo\String Variable Demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap03\String Variable Demo\String Variable Demo\obj\x86\Debug\String Variable Demo.exe
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap03\String Variable Demo\String Variable Demo\obj\x86\Debug\String Variable Demo.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap03\String Variable Demo\String Variable Demo\obj\x86\Debug\String Variable Demo.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap03\String Variable Demo\String Variable Demo\obj\x86\Debug\String Variable Demo.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap03\String Variable Demo\String Variable Demo\obj\x86\Debug\String Variable Demo.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap03\String Variable Demo\String Variable Demo\obj\x86\Debug\String Variable Demo.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap03\String Variable Demo\String Variable Demo\bin\Debug\String Variable Demo.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap03\String Variable Demo\String Variable Demo\bin\Debug\String Variable Demo.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap03\String Variable Demo\String Variable Demo\obj\x86\Debug\String Variable Demo.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap03\String Variable Demo\String Variable Demo\obj\x86\Debug\String_Variable_Demo.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap03\String Variable Demo\String Variable Demo\obj\x86\Debug\String_Variable_Demo.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap03\String Variable Demo\String Variable Demo\obj\x86\Debug\String Variable Demo.csproj.GenerateResource.Cache

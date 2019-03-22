@@ -1,0 +1,9 @@
+K:\Books\C#\Student Sample Programs\Chap05\Numeric Data\Numeric Data\bin\Debug\Numeric Data.exe
+K:\Books\C#\Student Sample Programs\Chap05\Numeric Data\Numeric Data\bin\Debug\Numeric Data.pdb
+K:\Books\C#\Student Sample Programs\Chap05\Numeric Data\Numeric Data\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Books\C#\Student Sample Programs\Chap05\Numeric Data\Numeric Data\obj\x86\Debug\Numeric_Data.Form1.resources
+K:\Books\C#\Student Sample Programs\Chap05\Numeric Data\Numeric Data\obj\x86\Debug\Numeric_Data.Properties.Resources.resources
+K:\Books\C#\Student Sample Programs\Chap05\Numeric Data\Numeric Data\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Books\C#\Student Sample Programs\Chap05\Numeric Data\Numeric Data\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Books\C#\Student Sample Programs\Chap05\Numeric Data\Numeric Data\obj\x86\Debug\Numeric Data.exe
+K:\Books\C#\Student Sample Programs\Chap05\Numeric Data\Numeric Data\obj\x86\Debug\Numeric Data.pdb

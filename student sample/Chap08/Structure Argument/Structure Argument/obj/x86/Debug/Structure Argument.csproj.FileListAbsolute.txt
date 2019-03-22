@@ -1,0 +1,9 @@
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap08\Structure Argument\Structure Argument\bin\Debug\Structure Argument.exe
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap08\Structure Argument\Structure Argument\bin\Debug\Structure Argument.pdb
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap08\Structure Argument\Structure Argument\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap08\Structure Argument\Structure Argument\obj\x86\Debug\Structure_Argument.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap08\Structure Argument\Structure Argument\obj\x86\Debug\Structure_Argument.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap08\Structure Argument\Structure Argument\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap08\Structure Argument\Structure Argument\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap08\Structure Argument\Structure Argument\obj\x86\Debug\Structure Argument.exe
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap08\Structure Argument\Structure Argument\obj\x86\Debug\Structure Argument.pdb

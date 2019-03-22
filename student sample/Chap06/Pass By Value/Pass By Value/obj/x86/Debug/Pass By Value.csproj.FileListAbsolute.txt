@@ -1,0 +1,16 @@
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap06\Pass By Value\Pass By Value\bin\Debug\Pass By Value.exe
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap06\Pass By Value\Pass By Value\bin\Debug\Pass By Value.pdb
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap06\Pass By Value\Pass By Value\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap06\Pass By Value\Pass By Value\obj\x86\Debug\Pass_By_Value.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap06\Pass By Value\Pass By Value\obj\x86\Debug\Pass_By_Value.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap06\Pass By Value\Pass By Value\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap06\Pass By Value\Pass By Value\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap06\Pass By Value\Pass By Value\obj\x86\Debug\Pass By Value.exe
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap06\Pass By Value\Pass By Value\obj\x86\Debug\Pass By Value.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap06\Pass By Value\Pass By Value\obj\x86\Debug\Pass By Value.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap06\Pass By Value\Pass By Value\obj\x86\Debug\Pass By Value.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap06\Pass By Value\Pass By Value\bin\Debug\Pass By Value.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap06\Pass By Value\Pass By Value\bin\Debug\Pass By Value.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap06\Pass By Value\Pass By Value\obj\x86\Debug\Pass_By_Value.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap06\Pass By Value\Pass By Value\obj\x86\Debug\Pass_By_Value.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap06\Pass By Value\Pass By Value\obj\x86\Debug\Pass By Value.csproj.GenerateResource.Cache

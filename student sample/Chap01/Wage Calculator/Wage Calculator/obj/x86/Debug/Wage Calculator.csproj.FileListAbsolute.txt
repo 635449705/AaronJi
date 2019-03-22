@@ -1,0 +1,34 @@
+C:\Users\Tony\AppData\Local\Temporary Projects\Wage Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\AppData\Local\Temporary Projects\Wage Calculator\obj\x86\Debug\Wage_Calculator.Form1.resources
+C:\Users\Tony\AppData\Local\Temporary Projects\Wage Calculator\obj\x86\Debug\Wage_Calculator.Properties.Resources.resources
+C:\Users\Tony\AppData\Local\Temporary Projects\Wage Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\AppData\Local\Temporary Projects\Wage Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\AppData\Local\Temporary Projects\Wage Calculator\bin\Debug\Wage Calculator.exe
+C:\Users\Tony\AppData\Local\Temporary Projects\Wage Calculator\bin\Debug\Wage Calculator.pdb
+C:\Users\Tony\AppData\Local\Temporary Projects\Wage Calculator\obj\x86\Debug\Wage Calculator.exe
+C:\Users\Tony\AppData\Local\Temporary Projects\Wage Calculator\obj\x86\Debug\Wage Calculator.pdb
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap01\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage Calculator.exe
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap01\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage Calculator.pdb
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap01\Wage Calculator\Wage Calculator\bin\Debug\Wage Calculator.exe
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap01\Wage Calculator\Wage Calculator\bin\Debug\Wage Calculator.pdb
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap01\Wage Calculator\Wage Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap01\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage_Calculator.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap01\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage_Calculator.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap01\Wage Calculator\Wage Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap01\Wage Calculator\Wage Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs - 2012\Chap01\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage Calculator.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs - 2012\Chap01\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage Calculator.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs - 2012\Chap01\Wage Calculator\Wage Calculator\bin\Debug\Wage Calculator.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs - 2012\Chap01\Wage Calculator\Wage Calculator\bin\Debug\Wage Calculator.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs - 2012\Chap01\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs - 2012\Chap01\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage_Calculator.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs - 2012\Chap01\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage_Calculator.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs - 2012\Chap01\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage Calculator.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap01\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage Calculator.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap01\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage Calculator.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap01\Wage Calculator\Wage Calculator\bin\Debug\Wage Calculator.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap01\Wage Calculator\Wage Calculator\bin\Debug\Wage Calculator.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap01\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap01\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage_Calculator.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap01\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage_Calculator.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap01\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage Calculator.csproj.GenerateResource.Cache
