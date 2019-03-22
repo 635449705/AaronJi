@@ -1,0 +1,19 @@
+K:\Books\C#\Student Sample Programs\Chap05\Name List\Name List\bin\Debug\Name List.exe
+K:\Books\C#\Student Sample Programs\Chap05\Name List\Name List\bin\Debug\Name List.pdb
+K:\Books\C#\Student Sample Programs\Chap05\Name List\Name List\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Books\C#\Student Sample Programs\Chap05\Name List\Name List\obj\x86\Debug\Name_List.Form1.resources
+K:\Books\C#\Student Sample Programs\Chap05\Name List\Name List\obj\x86\Debug\Name_List.Properties.Resources.resources
+K:\Books\C#\Student Sample Programs\Chap05\Name List\Name List\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Books\C#\Student Sample Programs\Chap05\Name List\Name List\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Books\C#\Student Sample Programs\Chap05\Name List\Name List\obj\x86\Debug\Name List.exe
+K:\Books\C#\Student Sample Programs\Chap05\Name List\Name List\obj\x86\Debug\Name List.pdb
+G:\Books\C#\Student Sample Programs\Chap05\Name List\Name List\obj\x86\Debug\Name List.exe
+G:\Books\C#\Student Sample Programs\Chap05\Name List\Name List\obj\x86\Debug\Name List.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap05\Name List\Name List\obj\x86\Debug\Name List.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap05\Name List\Name List\obj\x86\Debug\Name List.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap05\Name List\Name List\bin\Debug\Name List.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap05\Name List\Name List\bin\Debug\Name List.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap05\Name List\Name List\obj\x86\Debug\Name List.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap05\Name List\Name List\obj\x86\Debug\Name_List.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap05\Name List\Name List\obj\x86\Debug\Name_List.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap05\Name List\Name List\obj\x86\Debug\Name List.csproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+G:\Books\C#\Student Sample Programs\Chap04\Switch Example\Switch Example\bin\Debug\Switch Example.exe
+G:\Books\C#\Student Sample Programs\Chap04\Switch Example\Switch Example\bin\Debug\Switch Example.pdb
+G:\Books\C#\Student Sample Programs\Chap04\Switch Example\Switch Example\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Books\C#\Student Sample Programs\Chap04\Switch Example\Switch Example\obj\x86\Debug\Switch_Example.Form1.resources
+G:\Books\C#\Student Sample Programs\Chap04\Switch Example\Switch Example\obj\x86\Debug\Switch_Example.Properties.Resources.resources
+G:\Books\C#\Student Sample Programs\Chap04\Switch Example\Switch Example\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Books\C#\Student Sample Programs\Chap04\Switch Example\Switch Example\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Books\C#\Student Sample Programs\Chap04\Switch Example\Switch Example\obj\x86\Debug\Switch Example.exe
+G:\Books\C#\Student Sample Programs\Chap04\Switch Example\Switch Example\obj\x86\Debug\Switch Example.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap04\Switch Example\Switch Example\obj\x86\Debug\Switch Example.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap04\Switch Example\Switch Example\obj\x86\Debug\Switch Example.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap04\Switch Example\Switch Example\bin\Debug\Switch Example.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap04\Switch Example\Switch Example\bin\Debug\Switch Example.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap04\Switch Example\Switch Example\obj\x86\Debug\Switch_Example.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap04\Switch Example\Switch Example\obj\x86\Debug\Switch_Example.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap04\Switch Example\Switch Example\obj\x86\Debug\Switch Example.csproj.GenerateResource.Cache

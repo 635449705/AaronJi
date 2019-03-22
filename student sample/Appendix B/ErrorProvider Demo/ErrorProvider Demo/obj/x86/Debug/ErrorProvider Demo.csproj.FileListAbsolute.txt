@@ -1,0 +1,23 @@
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Appendix B\ErrorProvider Demo\ErrorProvider Demo\bin\Debug\ErrorProvider Demo.exe
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Appendix B\ErrorProvider Demo\ErrorProvider Demo\bin\Debug\ErrorProvider Demo.pdb
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Appendix B\ErrorProvider Demo\ErrorProvider Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Appendix B\ErrorProvider Demo\ErrorProvider Demo\obj\x86\Debug\ErrorProvider_Demo.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Appendix B\ErrorProvider Demo\ErrorProvider Demo\obj\x86\Debug\ErrorProvider_Demo.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Appendix B\ErrorProvider Demo\ErrorProvider Demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Appendix B\ErrorProvider Demo\ErrorProvider Demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Appendix B\ErrorProvider Demo\ErrorProvider Demo\obj\x86\Debug\ErrorProvider Demo.exe
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Appendix B\ErrorProvider Demo\ErrorProvider Demo\obj\x86\Debug\ErrorProvider Demo.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Appendix B\ErrorProvider Demo\ErrorProvider Demo\obj\x86\Debug\ErrorProvider Demo.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Appendix B\ErrorProvider Demo\ErrorProvider Demo\obj\x86\Debug\ErrorProvider Demo.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Appendix B\ErrorProvider Demo\ErrorProvider Demo\bin\Debug\ErrorProvider Demo.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Appendix B\ErrorProvider Demo\ErrorProvider Demo\bin\Debug\ErrorProvider Demo.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Appendix B\ErrorProvider Demo\ErrorProvider Demo\obj\x86\Debug\ErrorProvider_Demo.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Appendix B\ErrorProvider Demo\ErrorProvider Demo\obj\x86\Debug\ErrorProvider_Demo.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Appendix B\ErrorProvider Demo\ErrorProvider Demo\obj\x86\Debug\ErrorProvider Demo.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Appendix B\ErrorProvider Demo\ErrorProvider Demo\obj\x86\Debug\ErrorProvider Demo.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Appendix B\ErrorProvider Demo\ErrorProvider Demo\obj\x86\Debug\ErrorProvider Demo.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Appendix B\ErrorProvider Demo\ErrorProvider Demo\bin\Debug\ErrorProvider Demo.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Appendix B\ErrorProvider Demo\ErrorProvider Demo\bin\Debug\ErrorProvider Demo.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Appendix B\ErrorProvider Demo\ErrorProvider Demo\obj\x86\Debug\ErrorProvider_Demo.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Appendix B\ErrorProvider Demo\ErrorProvider Demo\obj\x86\Debug\ErrorProvider_Demo.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Appendix B\ErrorProvider Demo\ErrorProvider Demo\obj\x86\Debug\ErrorProvider Demo.csproj.GenerateResource.Cache

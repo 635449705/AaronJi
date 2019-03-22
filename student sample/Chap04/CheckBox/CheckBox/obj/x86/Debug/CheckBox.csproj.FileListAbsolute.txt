@@ -1,0 +1,24 @@
+K:\Books\C#\Student Sample Programs\Chap04\CheckBox\CheckBox\bin\Debug\CheckBox.exe
+K:\Books\C#\Student Sample Programs\Chap04\CheckBox\CheckBox\bin\Debug\CheckBox.pdb
+K:\Books\C#\Student Sample Programs\Chap04\CheckBox\CheckBox\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Books\C#\Student Sample Programs\Chap04\CheckBox\CheckBox\obj\x86\Debug\CheckBox.Form1.resources
+K:\Books\C#\Student Sample Programs\Chap04\CheckBox\CheckBox\obj\x86\Debug\CheckBox.Properties.Resources.resources
+K:\Books\C#\Student Sample Programs\Chap04\CheckBox\CheckBox\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Books\C#\Student Sample Programs\Chap04\CheckBox\CheckBox\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Books\C#\Student Sample Programs\Chap04\CheckBox\CheckBox\obj\x86\Debug\CheckBox.exe
+K:\Books\C#\Student Sample Programs\Chap04\CheckBox\CheckBox\obj\x86\Debug\CheckBox.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap04\CheckBox\CheckBox\obj\x86\Debug\CheckBox.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap04\CheckBox\CheckBox\obj\x86\Debug\CheckBox.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap04\CheckBox\CheckBox\bin\Debug\CheckBox.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap04\CheckBox\CheckBox\bin\Debug\CheckBox.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap04\CheckBox\CheckBox\obj\x86\Debug\CheckBox.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap04\CheckBox\CheckBox\obj\x86\Debug\CheckBox.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap04\CheckBox\CheckBox\obj\x86\Debug\CheckBox.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap04\CheckBox\CheckBox\obj\x86\Debug\CheckBox.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap04\CheckBox\CheckBox\obj\x86\Debug\CheckBox.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap04\CheckBox\CheckBox\bin\Debug\CheckBox.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap04\CheckBox\CheckBox\bin\Debug\CheckBox.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap04\CheckBox\CheckBox\obj\x86\Debug\CheckBox.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap04\CheckBox\CheckBox\obj\x86\Debug\CheckBox.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap04\CheckBox\CheckBox\obj\x86\Debug\CheckBox.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap04\CheckBox\CheckBox\obj\x86\Debug\CheckBox.csprojResolveAssemblyReference.cache

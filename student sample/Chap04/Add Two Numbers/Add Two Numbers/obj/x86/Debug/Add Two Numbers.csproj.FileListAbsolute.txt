@@ -1,0 +1,18 @@
+K:\Books\C#\Student Sample Programs\Chap04\Add Two Numbers\Add Two Numbers\bin\Debug\Add Two Numbers.exe
+K:\Books\C#\Student Sample Programs\Chap04\Add Two Numbers\Add Two Numbers\bin\Debug\Add Two Numbers.pdb
+K:\Books\C#\Student Sample Programs\Chap04\Add Two Numbers\Add Two Numbers\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Books\C#\Student Sample Programs\Chap04\Add Two Numbers\Add Two Numbers\obj\x86\Debug\Add_Two_Numbers.Form1.resources
+K:\Books\C#\Student Sample Programs\Chap04\Add Two Numbers\Add Two Numbers\obj\x86\Debug\Add_Two_Numbers.Properties.Resources.resources
+K:\Books\C#\Student Sample Programs\Chap04\Add Two Numbers\Add Two Numbers\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Books\C#\Student Sample Programs\Chap04\Add Two Numbers\Add Two Numbers\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Books\C#\Student Sample Programs\Chap04\Add Two Numbers\Add Two Numbers\obj\x86\Debug\Add Two Numbers.exe
+K:\Books\C#\Student Sample Programs\Chap04\Add Two Numbers\Add Two Numbers\obj\x86\Debug\Add Two Numbers.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap04\Add Two Numbers\Add Two Numbers\obj\x86\Debug\Add Two Numbers.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap04\Add Two Numbers\Add Two Numbers\obj\x86\Debug\Add Two Numbers.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap04\Add Two Numbers\Add Two Numbers\obj\x86\Debug\Add Two Numbers.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap04\Add Two Numbers\Add Two Numbers\obj\x86\Debug\Add Two Numbers.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap04\Add Two Numbers\Add Two Numbers\bin\Debug\Add Two Numbers.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap04\Add Two Numbers\Add Two Numbers\bin\Debug\Add Two Numbers.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap04\Add Two Numbers\Add Two Numbers\obj\x86\Debug\Add_Two_Numbers.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap04\Add Two Numbers\Add Two Numbers\obj\x86\Debug\Add_Two_Numbers.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap04\Add Two Numbers\Add Two Numbers\obj\x86\Debug\Add Two Numbers.csproj.GenerateResource.Cache

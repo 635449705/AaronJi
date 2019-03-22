@@ -1,0 +1,18 @@
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Range Checker\Range Checker\bin\Debug\Range Checker.exe
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Range Checker\Range Checker\bin\Debug\Range Checker.pdb
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Range Checker\Range Checker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Range Checker\Range Checker\obj\x86\Debug\Range_Checker.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Range Checker\Range Checker\obj\x86\Debug\Range_Checker.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Range Checker\Range Checker\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Range Checker\Range Checker\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Range Checker\Range Checker\obj\x86\Debug\Range Checker.exe
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Range Checker\Range Checker\obj\x86\Debug\Range Checker.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap04\Range Checker\Range Checker\obj\x86\Debug\Range Checker.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap04\Range Checker\Range Checker\obj\x86\Debug\Range Checker.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap04\Range Checker\Range Checker\bin\Debug\Range Checker.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap04\Range Checker\Range Checker\bin\Debug\Range Checker.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap04\Range Checker\Range Checker\obj\x86\Debug\Range_Checker.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap04\Range Checker\Range Checker\obj\x86\Debug\Range_Checker.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap04\Range Checker\Range Checker\obj\x86\Debug\Range Checker.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap04\Range Checker\Range Checker\obj\x86\Debug\Range Checker.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap04\Range Checker\Range Checker\obj\x86\Debug\Range Checker.pdb

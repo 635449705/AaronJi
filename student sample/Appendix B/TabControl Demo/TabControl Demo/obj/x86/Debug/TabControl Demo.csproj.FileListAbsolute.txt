@@ -1,0 +1,18 @@
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Appendix B\TabControl Demo\TabControl Demo\bin\Debug\TabControl Demo.exe
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Appendix B\TabControl Demo\TabControl Demo\bin\Debug\TabControl Demo.pdb
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Appendix B\TabControl Demo\TabControl Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Appendix B\TabControl Demo\TabControl Demo\obj\x86\Debug\TabControl_Demo.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Appendix B\TabControl Demo\TabControl Demo\obj\x86\Debug\TabControl_Demo.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Appendix B\TabControl Demo\TabControl Demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Appendix B\TabControl Demo\TabControl Demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Appendix B\TabControl Demo\TabControl Demo\obj\x86\Debug\TabControl Demo.exe
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Appendix B\TabControl Demo\TabControl Demo\obj\x86\Debug\TabControl Demo.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Appendix B\TabControl Demo\TabControl Demo\obj\x86\Debug\TabControl Demo.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Appendix B\TabControl Demo\TabControl Demo\obj\x86\Debug\TabControl Demo.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Appendix B\TabControl Demo\TabControl Demo\obj\x86\Debug\TabControl Demo.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Appendix B\TabControl Demo\TabControl Demo\obj\x86\Debug\TabControl Demo.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Appendix B\TabControl Demo\TabControl Demo\bin\Debug\TabControl Demo.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Appendix B\TabControl Demo\TabControl Demo\bin\Debug\TabControl Demo.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Appendix B\TabControl Demo\TabControl Demo\obj\x86\Debug\TabControl_Demo.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Appendix B\TabControl Demo\TabControl Demo\obj\x86\Debug\TabControl_Demo.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Appendix B\TabControl Demo\TabControl Demo\obj\x86\Debug\TabControl Demo.csproj.GenerateResource.Cache
