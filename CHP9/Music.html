@@ -1,0 +1,70 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	  <style>
+body {
+    background-color: #1ED3D3;
+}
+h1 {
+    background-color: pink;
+}
+p {
+    background-color: rgb(255,0,0);
+}
+</style>
+<title>Chapter 9 question 5</title>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="music.css">
+</head>
+
+<body>
+<center><h1>Music Survey</h1></center>
+<form method="GET">
+   <strong> Name: <input type="text" name="name" id="name" required="required"></strong>
+    <br>
+    <br>
+    <strong>E-mail: <input type="email" name="email" id="email" required="required"></strong>
+    <br>
+    <br>
+    <fieldset id="type"><legend><strong> Select Your Favorite Types of Music:</strong></legend>
+       <input type="checkbox" name="Pop" id="Pop" value="Yes"> Pop
+        <br>
+        <input type="checkbox" name="Classical" id="CSL" value="Yes"> Classical
+        <br>
+        <input type="checkbox" name="Rock" id="Rock" value="Yes"> Rock
+        <br>
+        <input type="checkbox" name="Folk" id="Folk" value="Yes"> Folk
+        <br>
+        <input type="checkbox" name="Rap" id="Rap" value="Yes"> Rap
+        <br>
+        <input type="checkbox" name="Other" id="Other" value="Yes"> Other
+    </fieldset>
+    <br>
+    <fieldset><legend><strong> Select how often you purchase your Music CDs:</strong></legend>
+        <input type="radio" name="Weekly" id="Weekly" value="Yes"> Weekly
+        <br>
+        <input type="radio" name="A few CDs each year" id="few" value="Yes"> A few CDs each year
+        <br>
+        <input type="radio" name="Monthly" id="Monthly" value="Yes"> Monthly
+        <br>
+        <input type="radio" name="Never purchase" id="Never" value="Yes"> Never purchase
+    </fieldset>
+    <br>
+    <fieldset><legend><strong>Select the location you listen to Music:</strong></legend>
+        <select size="3" name="location" id="location">
+            <option>At home</option>
+            <option>In the car</option>
+            <option>Anywhere (MP3 Player)</option>
+            <option>While Exercising</option>
+        </select>
+    </fieldset>
+    <br>
+    <legend><strong>What role does music play in your life?</strong></legend>
+        <textarea name="Comments" id="Comments" cols="60" rows="3"></textarea>
+    </form>
+
+   <center><input type="submit" value="Submit" id="submit"> <input type="reset" id="reset"></center>
+</body>
+
+</html>
