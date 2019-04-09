@@ -1,0 +1,81 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	  <style>
+body {
+    background-color: #1ED3D3;
+}
+h1 {
+    background-color: pink;
+}
+p {
+    background-color: rgb(255,0,0);
+}
+</style>
+<title>Feedback</title>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="music.css">
+</head>
+
+<body>
+<center><h1>FeedBack</h1></center>
+<form method="GET">
+   <strong> Score <input type="text" name="name" id="name" required="required"></strong>
+    <br>
+    <br>
+   
+    <br>
+    <br>
+    <fieldset id="type"><legend><strong> Select Your Favorite Page of This Web Presence</strong></legend>
+       <input type="checkbox" name="Pop" id="Pop" value="Yes"> HomePage
+        <br>
+        <input type="checkbox" name="Classical" id="CSL" value="Yes"> NIU Buildings & Maps
+        <br>
+        <input type="checkbox" name="Rock" id="Rock" value="Yes"> My favorite Game
+        <br>
+        <input type="checkbox" name="Folk" id="Folk" value="Yes"> Cars I comparing
+        <br>
+        <input type="checkbox" name="Rap" id="Rap" value="Yes"> BSG Project
+        <br>
+        <input type="checkbox" name="Other" id="Other" value="Yes"> Contact
+        <br>
+        <input type="checkbox" name="Classical" id="CSL" value="Yes"> My favorite Music
+          <br>
+        <input type="checkbox" name="Classical" id="CSL" value="Yes"> OMIS requirements
+          <br>
+        <input type="checkbox" name="Classical" id="CSL" value="Yes">My favorite Sports Team
+    </fieldset>
+    <br>
+    <fieldset><legend><strong> Select how would you rate my Web Presence</strong></legend>
+        <input type="radio" name="Weekly" id="Weekly" value="Yes">A
+        <br>
+        <input type="radio" name="A few CDs each year" id="few" value="Yes"> B
+        <br>
+        <input type="radio" name="Monthly" id="Monthly" value="Yes">C
+        <br>
+        <input type="radio" name="Never purchase" id="Never" value="Yes"> D
+    </fieldset>
+    <br>
+    <fieldset><legend><strong>Select the worst part you think</strong></legend>
+        <select size="3" name="location" id="location">
+            <option>HomePage</option>
+            <option>NIU Buildings & Maps</option>
+            <option>My favorite Game</option>
+            <option>BSG Project</option>
+            <option>Contact</option>
+            <option>My favorite Music</option>
+            <option>OMIS requirements</option>
+            <option>My favorite Sports Team</option>
+        </select>
+    </fieldset>
+    <br>
+    <legend><strong>What's your suggestions?</strong></legend>
+        <textarea name="Comments" id="Comments" cols="60" rows="3"></textarea>
+    </form>
+
+   <center><input type="submit" value="Submit" id="submit"> <input type="reset" id="reset"></center>
+</body>
+
+</html>
