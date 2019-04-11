@@ -1,0 +1,163 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-image: linear-gradient(to right, RGB(241, 196, 15) ,RGB(125, 60, 152  ));;
+}
+
+/* Style the header */
+.header {
+  background-image: linear-gradient(to right, RGB(241, 196, 15) ,RGB(125, 60, 152 ));
+  padding: 20px;
+  text-align: center;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-image: linear-gradient(to right, RGB(241, 196, 15) ,RGB(125, 60, 152 ));
+  display: flex;
+  justify-content: center;
+
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  color: #0a0a0a;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+a       {text-decoration: none;
+    padding: 1px;
+    font-weight: bold; }
+
+a:link { color: white; }
+
+a:visited   {color: white;}
+
+a:hover { color: black; }
+
+ul  {
+    list-style-position: inside;
+}
+
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width:600px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+<title>NIU business textbook Ordering</title>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="music.css">
+</head>
+
+<body>
+<center><h1>NIU business textbook Ordering</h1></center>
+<form method="GET">
+   <strong> Name <input type="text" name="name" id="name" required="required"></strong>
+   <strong>Z-ID <input type="text" name="name" id="name" required="required"></strong>
+    <br>
+    <br>
+   
+    <br>
+    <br>
+    <fieldset id="type"><legend><strong> Select Your Major</strong></legend>
+       <input type="checkbox" name="Pop" id="Pop" value="Yes"> Operation Management Information System
+        <br>
+        <input type="checkbox" name="Classical" id="CSL" value="Yes"> Business
+        <br>
+        <input type="checkbox" name="Rock" id="Rock" value="Yes"> Ecnomic
+        <br>
+        <input type="checkbox" name="Folk" id="Folk" value="Yes"> Management
+        <br>
+        <input type="checkbox" name="Rap" id="Rap" value="Yes">Accounting
+        <br>
+        <input type="checkbox" name="Other" id="Other" value="Yes"> Marketing
+        <br>
+        <input type="checkbox" name="Classical" id="CSL" value="Yes"> Finance
+          <br>
+    
+    </fieldset>
+    <br>
+    <fieldset><legend><strong> Select Your Price Range</strong></legend>
+        <input type="radio" name="Weekly" id="Weekly" value="Yes">$0-$50
+        <br>
+        <input type="radio" name="A few CDs each year" id="few" value="Yes"> $50-100$
+        <br>
+        <input type="radio" name="Monthly" id="Monthly" value="Yes">$100-$150
+        <br>
+        <input type="radio" name="Never purchase" id="Never" value="Yes"> $150-$200
+    </fieldset>
+    <br>
+    <fieldset><legend><strong>Select Your Class</strong></legend>
+        <select size="3" name="location" id="location">
+            <option>OMIS 99</option>
+          <option>OMIS 452</option>
+           <option>OMIS 458</option>
+            <option>OMIS 495</option>
+             <option>OMIS 524</option>
+              <option>OMIS 599</option>
+               <option>OMIS 604</option>
+                <option>OMIS 605</option>
+                 <option>OMIS 627</option>
+                  <option>OMIS 640</option>
+                   <option>OMIS 652</option>
+                    <option>OMIS 695</option>
+                     <option>MGMT 644</option>
+                     <option>MGMT 380</option>
+                     <option>MGMT 609</option>
+                     <option>MGMT 505</option>
+                     <option>MGMT 651</option>
+                     <option>MGMT 495</option>
+                     <option>MGMT 521</option>
+                     <option>MGMT 536</option>
+                     <option>MGMT 586</option>
+                     <option>MGMT 346</option>
+                     <option>MGMT 456</option>
+
+        </select>
+    </fieldset>
+    <br>
+    <legend><strong>Addition Information You Would Like To Add</strong></legend>
+        <textarea name="Comments" id="Comments" cols="60" rows="3"></textarea>
+    </form>
+
+   <center><input type="submit" value="Submit" id="submit"> <input type="reset" id="reset"></center>
+</body>
+<footer><a href="https://635449705.github.io/AaronJi/webpresence/homepage.html">Back To HomePage</a></footer>
+</html>
